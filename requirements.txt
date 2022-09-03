@@ -1,0 +1,9 @@
+azure-storage-file-datalake
+azure-identity
+azure-storage-blob
+azure-keyvault-secrets
+azure-functions
+azure-mgmt-storage
+pandas
+pyarrow
+fastparquet
